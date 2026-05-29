@@ -39,6 +39,6 @@ Using **Python and Pandas**, the raw scraped and API data was cleaned, data type
 The completed pipeline scripts and database schemas were migrated to **GitHub**. The repository is organized using professional version control practices, ensuring reproducibility and setting up a clear foundation for future cloud automation.
 
 ### Key Takeaways and Impact
-* **End-to-End Data Ownership: Successfully designed and implemented a full data pipeline from scratch—moving from raw, unstructured web data to a structured SQL database.
-* **Problem-Solving Mindset: Overcame challenges with messy, inconsistent HTML structures by writing adaptive Python scripts.
+* End-to-End Data Ownership: Successfully designed and implemented a full data pipeline from scratch—moving from raw, unstructured web data to a structured SQL database.
+* Problem-Solving Mindset: Overcame challenges with messy, inconsistent HTML structures by writing adaptive Python scripts.
 * Business-Driven Analytics: Built a data framework centered entirely on solving a real-world operational problem (fleet optimization), proving the ability to connect data engineering tasks directly to business value.
