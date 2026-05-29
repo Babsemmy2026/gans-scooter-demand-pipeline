@@ -1,0 +1,9 @@
+json
+pandas
+beautifulsoup
+os
+sqlalchemy
+datetime
+parser
+requests
+ZoneInfo
