@@ -1,5 +1,7 @@
-# gans-scooter-demand-pipeline
-A Python &amp; SQL data pipeline that integrates weather, flight, and demographic data to optimize e-scooter fleet placement for Gans.
+# E-Scooter Demand Analysis Pipeline
+
+A Python & SQL data pipeline integrating weather, flight, and demographic data to optimize e-scooter fleet placement and improve operational decision-making.
+
 This Project was completed during my Data Analytics training at WBS Coding School.
 
 # 🛴 Gans E-Scooter Fleet Optimization Pipeline
